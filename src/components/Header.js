@@ -1,6 +1,6 @@
 import React from 'react';
-function Header()
-{
+
+function Header() {
     return (
         <header className="absolute w-full z-50 px-4">
             <div className="container mx-auto py-5">
@@ -103,4 +103,5 @@ function Header()
     )
 
 }
+
 export default Header;
